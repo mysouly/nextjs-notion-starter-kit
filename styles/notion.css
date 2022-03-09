@@ -84,7 +84,7 @@
 
 .notion-collection-card {
   border-radius: 6px;
-  box-shadow: rgb(15 15 15 / 10%) 0px 0px 0px 1px, rgb(15 15 15 / 10%) 0px 2px 4px;
+  background: rgb(135 131 120 / 15%);
 }
 
 .notion-collection-card-cover img {
