@@ -54,8 +54,8 @@
   gap: 16px;
   border-top: 1px solid rgb(77, 81, 83); 
   padding-top: 16px; padding-bottom: 4px;
-  grid-gap: 3vmin;
-  gap: 3vmin;
+  grid-gap: 6vmin;
+  gap: 6vmin;
 }
 
 .notion-gallery-grid .notion-page-icon {
